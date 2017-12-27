@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/logan/Desktop/数据结构课设/N皇后/Queen.h
+iostream
+-
+
+/Users/logan/Desktop/数据结构课设/N皇后/main.cpp
+iostream
+-
+Queen.h
+/Users/logan/Desktop/数据结构课设/N皇后/Queen.h
+

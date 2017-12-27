@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/logan/Desktop/数据结构课设/textSearching/Init.h
+
+/Users/logan/Desktop/数据结构课设/textSearching/counting.h
+
+/Users/logan/Desktop/数据结构课设/textSearching/createTxt.h
+fstream
+-
+iostream
+-
+string
+-
+
+/Users/logan/Desktop/数据结构课设/textSearching/main.cpp
+iostream
+-
+createTxt.h
+/Users/logan/Desktop/数据结构课设/textSearching/createTxt.h
+Init.h
+/Users/logan/Desktop/数据结构课设/textSearching/Init.h
+searching.h
+/Users/logan/Desktop/数据结构课设/textSearching/searching.h
+counting.h
+/Users/logan/Desktop/数据结构课设/textSearching/counting.h
+
+/Users/logan/Desktop/数据结构课设/textSearching/searching.h
+iostream
+-
+vector
+-
+string
+-
+Init.h
+/Users/logan/Desktop/数据结构课设/textSearching/Init.h
+

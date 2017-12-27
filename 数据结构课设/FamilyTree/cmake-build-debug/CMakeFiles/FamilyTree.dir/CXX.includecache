@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/logan/Desktop/数据结构课设/FamilyTree/FamilyTree.h
+iostream
+-
+string
+-
+
+/Users/logan/Desktop/数据结构课设/FamilyTree/main.cpp
+iostream
+-
+FamilyTree.h
+/Users/logan/Desktop/数据结构课设/FamilyTree/FamilyTree.h
+string
+-
+

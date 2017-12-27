@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/logan/Desktop/数据结构课设/BinarySortTree/binarySortTree.h
+iostream
+-
+
+/Users/logan/Desktop/数据结构课设/BinarySortTree/init.h
+iostream
+-
+
+/Users/logan/Desktop/数据结构课设/BinarySortTree/main.cpp
+iostream
+-
+binarySortTree.h
+/Users/logan/Desktop/数据结构课设/BinarySortTree/binarySortTree.h
+init.h
+/Users/logan/Desktop/数据结构课设/BinarySortTree/init.h
+

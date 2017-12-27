@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/logan/Desktop/数据结构课设/ElectricityNet/PrimTree.h
+iostream
+-
+climits
+-
+string
+-
+
+/Users/logan/Desktop/数据结构课设/ElectricityNet/main.cpp
+iostream
+-
+PrimTree.h
+/Users/logan/Desktop/数据结构课设/ElectricityNet/PrimTree.h
+

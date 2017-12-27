@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/logan/Desktop/数据结构课设/maze/Maze.h
+iostream
+-
+queue
+-
+
+/Users/logan/Desktop/数据结构课设/maze/main.cpp
+cmath
+-
+iostream
+-
+Maze.h
+/Users/logan/Desktop/数据结构课设/maze/Maze.h
+

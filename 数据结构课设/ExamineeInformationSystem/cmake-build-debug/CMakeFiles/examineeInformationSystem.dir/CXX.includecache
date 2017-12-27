@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/logan/Desktop/数据结构课设/examineeInformationSystem/examineeInformationSystem.h
+iostream
+-
+string
+-
+
+/Users/logan/Desktop/数据结构课设/examineeInformationSystem/init.h
+iostream
+-
+examineeInformationSystem.h
+/Users/logan/Desktop/数据结构课设/examineeInformationSystem/examineeInformationSystem.h
+
+/Users/logan/Desktop/数据结构课设/examineeInformationSystem/main.cpp
+iostream
+-
+examineeInformationSystem.h
+/Users/logan/Desktop/数据结构课设/examineeInformationSystem/examineeInformationSystem.h
+init.h
+/Users/logan/Desktop/数据结构课设/examineeInformationSystem/init.h
+
